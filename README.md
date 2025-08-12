@@ -15,11 +15,13 @@ Use foam tape to tape the screen  to the board.
 # UPLOADING
 You can upload codes using Arduino ide.  
 -Install esp32 drivers from board manager (https://github.com/espressif/arduino-esp32)  
--Install U8G2 library for oled. You can use different libraries (https://github.com/olikraus/u8g2)
+-Install U8G2 library for oled. You can use different libraries (https://github.com/olikraus/u8g2)  
 -Select "ESP32C3 DEV MODULE" when uploading
 
-# BUY (NO AFFILIATE)
-https://aliexpress.com/item/1005009454064215.html
+# BUY (AFFILIATE)
+<a href="https://s.click.aliexpress.com/e/_okv2pnZ">
+  <img src="https://ae01.alicdn.com/kf/H30aeb63d3d754c7a962c793d6197f9d3C.jpg" width="200">
+</a>
 
 # IMAGES
 <img src="front.jpg" width="400" />  <img src="back.jpg" width="400" /> 
